@@ -1,11 +1,16 @@
-# c++ and oop 
+# 첫 시작
 
 - [c++ docs](https://en.cppreference.com/w/)
 - [c++ reference](https://www.cplusplus.com/reference/)
 - [c++ ms docs](https://docs.microsoft.com/ko-kr/cpp/cpp/?view=msvc-160)
 - [c++ 최신 동향](https://www.jetbrains.com/ko-kr/lp/devecosystem-2020/cpp/)
 
-## Mac 에서 C / C++ 개발 환경 구축 (Xcode)
+
+<br>
+
+---
+
+## XCode 에서 C / C++ 개발 환경 구축 (MacOS)
 
 ### 1. 앱 스토어에서 Xcode를 설치한다.
 
@@ -33,7 +38,7 @@
 
 ---
 
-## Mac 에서 C / C++ 개발 환경 구축 (VS Code)
+## VSCode 에서 C / C++ 개발 환경 구축 
 
 ### 1. VS-Code 설치
 
@@ -235,3 +240,16 @@ return  0;
 
 }
 ```
+
+<br>
+
+---
+
+## 컴퓨터의 기본 구성
+
+## CPU와 메모리
+
+## 프로세스의 이해
+
+## 컴파일과 메모리 관리
+
