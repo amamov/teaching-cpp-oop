@@ -1,6 +1,8 @@
 # python
 venv
 .DS_Store
+node_modules
+.env
 
 # Prerequisites
 *.d
